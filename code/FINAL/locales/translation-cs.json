@@ -1,0 +1,348 @@
+{
+	"translator": "next_ghost",
+	"app": {
+		"name": "Nemáte co skrývat",
+		"subtitle": "stealth akce naruby, kde sami sobě děláte hlídače.",
+		"longtitle": "Nemáte co skrývat: stealth akce naruby, kde sami sobě děláte hlídače."
+	},
+	"menu": {
+		"play": "Spustit",
+		"support": "Podpořit a sdílet",
+		"uncopyright": "Anticopyright",
+		"credits": "Tvůrci"
+	},
+	"dialog": {
+		"fund": {
+			"title": "Děkujeme, že jste si zahráli toto demo!",
+			"staytuned": [
+				"Těšte se. Tohle nebyla ani desetina budoucí plné hry!",
+				"A bohužel... tohle nebyla ani desetina budoucí plné hry.",
+				"Máme před sebou ještě dlouhou cestu a potřebujeme vaši pomoc."
+			],
+			"backthisgame": "podpořte tuto hru",
+			"whycrowdfunding": [
+				"Proč jsme zvolili crowdfunding? Tahle hra je open source a bez kopírovacího monopolu.",
+				"Tvoříme pro veřejnost a spodporou veřejnosti!",
+				"A já vím, že je to trochu ironie, když tohle je satira na sociální média a tak, ale..."
+			],
+			"thanksdissident": "Ještě jednou díky, vy dizidenti!"
+		},
+		"uncopyright": {
+			"title": "NEMÁTE CO SKRÝVAT NEMÁ CO SKRÝVAT",
+			"linkdescription": [
+							"Máme",
+							"<a href='%s' target='_blank'>otevřený zdrojový kód</a>,",
+							"<a href='%s' target='_blank'>otevřený design</a>,",
+							"a s vaší pomocí",
+							"<a href='%s' target='_blank'>otevřené financování</a>.",
+							"Ale především jsme se zbavili kopírovacího monopolu. Přesně tak - ",
+							"<a href='%s' target='_blank'>Všechna práva vyhlazena</a>."
+			],
+			"youarewelcometo": "Klidně smíte:",
+			"piratethisgame": "- \"Upirátit\" tuto hru.",
+			"recordandmonetize": "- Nahrávat si videa ze hry a vydělávat na nich peníze.",
+			"rehostthisgame": "- Umístit tuto hru na svůj web.",
+			"useartmusiccode": "- Používat grafiku/hudbu/kód ve svých projektech.",
+			"makeamod": [
+				"- Vytvořit modifikaci, kde hlavní postavou bude Princess Luna",
+				"ze slavného kresleného seriálu My Little Pony: Friendship Is Magic.",
+				"No, pak vám ale kvůli tomu nejspíš bude Hasbro vyhrožovat soudem.",
+				"Ale já ne."
+			],
+			"givinguppower": "Protože jsme se vzdali \"moci\" nad svou tvorbou, naše tvorba bude mocnější."
+		},
+		"credits": {
+			"withthehelp": "S POMOCÍ STOVEK LIDÍ"
+		}
+		
+	},
+	"command": {
+		"backtomainmenu": "Zpět na hlavní menu",
+		"resumegame": "Zpět do hry",
+		"resetlevel": "Restartovat level",
+		"pause": "Pauza",
+		"play": "Zpět",
+		"skiplevel": "Přeskočit"
+	},
+	"game": {
+		"general":{ 
+			"panopticonpaused": "Velký bratr usnul",
+			"levelselect": "Výběr levelu:",
+			"intro": "Intro",
+			"ending": "Závěr",
+			"sharegame": "Sdílejte hru:"
+		},
+		"thewall":{
+			"posted": "odeslal(a)",
+			"justnow": "právě teď",
+			"minutesago": "před minutou",
+			"minutesago_plural": "před __count__ minutami",
+			"secondsago": "před jednou sekundou",
+			"secondsago_plural": "před __count__ sekundami"
+		}
+	},
+	"character":{
+		"poppy": "Poppy",
+		"poppygardner": "Poppy Gardnerová",
+		"georgegardner": "George Gardner",
+		"nobody": "Nikdo"
+	},
+	"cutscene":{
+		"intro":[
+				"Poppy?",
+				"Notak, zlato. Nebuď smutná.",
+				"Dost mi to snižuje hodnocení popularity.",
+				"Blíží se první odtajněné volby. Pro taťkovu kariéru jsou moc důležité, takže na Zeď musíš posílat víc fotek, jak jsi šťastná. Aspoň 400 denně, jo?",
+				"Dobře, Poppy? Nechci, aby si voliči mysleli, že jsem špatný táta.",
+				"Tak dobrou noc! <span>#ChvilkaTatySDcerou</span>",
+				"Musím... Musím odtud utéct...",
+				"Tátovi bude líp beze mne. I na Žebříčku Popularity&trade;."
+		],
+		"end":[
+			"prosím, neumírej, notak notak notak notak notak notak",
+			"OK, OK, mám nápad.",
+			"Taťka mě někdy budí takhle. Třeba to zabere...",
+			"<span>#ChvilkaTatySDcerou</span>",
+			"Jau! Bolí mě pusa! Tys...",
+			"omlouvám se",
+			"...mi zachránila život! Neomlouvej se, kotě!",
+			"promiň, že jsem se omlouvala",
+			"Moment, my jsme na Zdi?...",
+			"\"Poppy Gardnerová odeslal(a) před minutou. Taťka mě někdy budí takhle. Třeba to zabere...\"",
+			"Tě pic... Ministr Gardner se takhle chová k vlastní... To čumim.",
+			"<i>Nóóóóóóóóóóó</i>, jestli se pak budeš cejtit líp, tvůj táta psychicky i fyzicky tejrá celej národ.",
+			"\"Dávej pozor co říkáš, slyšíš, na co se díváš, co si <i>myslíš</i>.\"<br>Když se nemáme kam skrejt, musíme skrejvat svoje pravý já.",
+			"Můžu ti pomoct před ním utýct.",
+			"Dokonce na to mám prográmek!",
+			"Exploit! Sám jsem ho napsal. Stačí tady klepnout na displej a vymaže tě ze Zdi. Budeš Nikdo, stejně jako já.",
+			"Přestaň se přetvařovat pro kamery. Začni bejt sama sebou."
+		]
+	},
+	"dialogue": {
+		"postedjustnow": "odeslal(a) právě teď",
+		"level": {
+			"intro": {
+				"nobodyNeedsMe":"Nikdo mě nepotřebuje...",
+				"runningAway": "Tak asi uteču do Kanady."
+			},
+			"pickup": {
+				"lookMySmile": "Hele… Taťkův předvolební vzkaz. Dívejte na můj úsměv. :)",
+				"disciplinedToSmile": "Když jsem se neusmívala dost přirozeně, tak mě potrestal. :)"
+			},
+			"big_puzzle": {
+				"iWonder": "Zajímalo by mě... jestli ty zákony proti rozčilování lidí... lidi rozčilují?"
+			},
+			"conveyor": {
+				"myOwnWatchman": "Zajímalo by mě... jestli jsem svůj vlastní hlídač... skrývám se sama před sebou?"
+			},
+			"conveyor_2": {
+				"whyQuestionMarks": "Zajímalo by mě... proč používám tolik trojteček a otazníků?",
+				"havingAPrivateThought": "Zdá se mi... že takhle vypadá soukromá myšlenka. Zvláštní pocit."
+			},
+			"power": {
+				"whatWasNoise": "Co... co to bylo za zvuk?",
+				"looksUncomfortable": "Auvajs... to vypadá nepříjemně."
+			},
+			"power_puzzle": {
+				"poorNobodyOnlyIEye" : "Chudák 'Nikdo'. Asi zkoušel odnést jediné iOko v dohledu.",
+				"neverDoneThat" : "Ještě že jsem takovou věc nikdy neudělala já."
+			},
+			"nobody_needs_you": {
+				"onceInMyLife": "Poprvé v životě... je mi jedno, co si o mně pomyslí ostatní! Musím... musím mu pomoct!",
+				"nobodyNeedsMe": "\"Nikdo\" mě potřebuje!"
+			}
+		}
+	},
+	"images": {
+		"general":{
+			"controls": {
+				"scrolldown": "Posouvejte dolů",
+				"mouse": "¬¬myší¬¬",
+				"keys": "¬šipkami¬"
+			},
+			"or": "¬nebo¬",
+			"tweet": "Tweetujte",
+			"share": "Sdílejte",
+			"THEWALL": "ZEĎ"
+			
+		},
+		"propaganda": {
+			"dont_help_hiders": {
+				"donthelp1": "NEPOMÁHEJ",
+				"donthelp2": "SKRÝVAČŮM",
+				"fourthAmendment1": "ale článek 7 listiny",
+				"fourthAmendment2": "základních práv a",
+				"fourthAmendment3": "svobod zaručuje"
+			},
+			"error": {
+				"ERROR": "CHYBA:",
+				"AudienceNotFound1": "`CILOVA_SKUPINA`",
+				"AudienceNotFound2": "NEBYLA NALEZENA",
+				"MeantForNobody1": "&gt; přístup na tuto zeď",
+				"MeantForNobody2": "&gt; má NIKDO"
+			},
+			"intro_pics": {
+				"posted4DaysAgo": "odeslal(a) před 4 dny",
+				"Message1": "Díky za 4 miliardy fanoušků! Mám takovou",
+				"Message2": "radost! V odtajněných volbách volte mého",
+				"Message3": "tátu! Mám radost. Haha! Ha. ha..."
+			},
+			"needs_dummy": {
+				"YesMySignal1": "ANO, MŮJ SIGNÁL",
+				"YesMySignal2": "REAGUJE",
+				"YesMySignal3": "NA VŠECHNY",
+				"YesMySignal4": "KLUKY A HOLKY!"
+			},
+			"nobody_messes": {
+				"posted4DaysAgo": "odeslal(a) před 4 dny",
+				"THEWALL": "ZEĎ",
+				"gotRidSecretBallot1": "Hustý, už bylo na čase zbavit se tajnejch voleb!",
+				"gotRidSecretBallot2": "Odhalíme všechny ty neamerický živly, co chtěj",
+				"gotRidSecretBallot3": "něco skrejvat. #voltegardnera",
+				"NobodyMessesWith1": "Kdo prudí Ministerstvo? Nikdo!",
+				"NobodyMessesWith2": "Kdo se stará o soukromí? Nikdo!",
+				"NobodyMessesWith3": "Nikdo! ^_^"
+			},
+			"nobody_the_wall": {
+				"THEWALL": "ZEĎ"
+			},
+			"nobody_the_wall_2": {
+				"THEWALL": " ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ ZEĎ"
+			},
+			"pickup_gardner": {
+				"ProtectorPatriotPop": "OCHRÁNCE. VLASTENEC. TÁTA.",
+				"VoteGardner1": "V ODTAJNĚNÝCH VOLBÁCH",
+				"VoteGardner2": "VOLTE GARDNERA"
+			},
+			"pickup_lookout": {
+				"LookOut1": "DÁVEJ POZOR",
+				"LookOut2": "SÁM NA SEBE"
+			},
+			"puzzle_mock": {
+				"RememberToBe": "NEZAPOMEŇTE BÝT",
+				"POPULAR": "OBLÍBENÍ",
+				"PRETTY": "KRÁSNÍ",
+				"PATRIOTIC": "VLASTENCI",
+				"HowSelfWorth1": "JAK JINAK CHCETE",
+				"HowSelfWorth2": "URČOVAT SVOJI",
+				"HowSelfWorth3": "HODNOTU?"
+			},
+			"puzzle_psa": {
+				"PatriotPSA1": "VLASTENECKÉ",
+				"PatriotPSA2": "OZNÁMENÍ",
+				
+				"WatchWhatYouSay1": "DÁVEJ",
+				"WatchWhatYouSay2": "POZOR, CO",
+				"WatchWhatYouSay3": "ŘÍKÁŠ",
+				
+				"WatchWhatYouHear1": "DÁVEJ",
+				"WatchWhatYouHear2": "POZOR, CO",
+				"WatchWhatYouHear3": "SLYŠÍŠ",
+
+				"WatchWhatYouWatch1": "DÁVEJ",
+				"WatchWhatYouWatch2": "POZOR, NA CO",
+				"WatchWhatYouWatch3": "SE DÍVÁŠ"
+			},
+			"questions": {
+				"DoNotAsk": "ŽÁDNÉ PROTIOTÁZKY",
+				"KeepYouSafe": "ABY VÁS MINISTERSTVO MOHLO CHRÁNIT, MUSÍ MÍT TAJEMSTVÍ",
+				"EspeciallyYours": "ZVLÁŠTĚ TA VAŠE!",
+				"Q:": "D:",
+				"SafeFromWhat": "CHRÁNIT PŘED ČÍM?",
+				"A:": "O:",
+				"ThatsSecret": "TO JE TAJNÉ."
+			},
+			"smile": {
+				"SmileForTheCam": "USMÍVEJTE SE NA KAMERU",
+				"HidingIsCriminal": "SKRÝVÁNÍ JE ZLOČIN",
+				"OnlyCriminals": "POUZE ZLOČINCI MAJÍ CO SKRÝVAT",
+				"StayAlwaysInSight": "VŽDY BUĎTE V DOHLEDU ALESPOŇ JEDNOHO °OKA"
+			},
+			"stream_wall": {
+				"StatusLeft": "STATUS:      STATUS:      STATUS:",
+				"SecureLeft": "SECURE       SECURE       SECURE       SECURE",
+				"StatusRight": "STATUS:      STATUS:      STATUS:      STATUS:",
+				"SecureRight": "SECURE       SECURE       SECURE"
+			},
+			"stream_wall_2": {
+				"CriminalNeutralized": "ZLOČINEC ZNEŠKODNĚN",
+				"Name1": "JMÉNO:",
+				"Name2": "&quot;NIKDO&quot;",
+				"Time1": "ČAS:",
+				"Time2": "2044 PST (PŘED 1 MIN)",
+				"Crime1": "ZLOČIN:",
+				"Crime2": "SKRÝVÁNÍ PŘED KAMEROU",
+				"Status1": "STAV:",
+				"Status2": "USPÁN (MOŽNÉ PŘEDÁVKOVÁNÍ)"
+			},
+			"tut_carpet": {
+				"DeviceInactiveCarpet": "RE: ZAŘÍZENÍ NEFUNGUJE NA KOBERCI",
+				"FeatureNotBug": "TO NENÍ CHYBA, ALE ZÁMĚR.",
+				"IssueClosed": "[PŘIPOMÍNKA UZAVŘENA]"
+			},
+			"tut_darker": {
+				"LookForLines1": "HLEDEJTE",
+				"LookForLines2": "TMAVŠÍ",
+				"LookForLines3": "ČÁRY"
+			},
+			"tut_pickup": {
+				"MovingIEyes": "PŘESOUVÁNÍ °OČÍ",
+				"SpaceKey": "MEZERNÍKEM",
+				"Or": "- - - - - - NEBO - - - - - - ",
+				"ClickCircle1": "KLIKEM",
+				"ClickCircle2": "NA KRUH",
+				"ToPickupDrop": "ZVEDNĚTE/POLOŽTE",
+				"ThanksForSurveillance1": "DĚKUJEME VÁM",
+				"ThanksForSurveillance2": "ŽE NÁM POMÁHÁTE",
+				"ThanksForSurveillance3": "SE SVÝM VLASTNÍM",
+				"ThanksForSurveillance4": "SLEDOVÁNÍM"
+			},
+			"tut_power": {
+				"ActiveSlidewalks1": "NĚKTERÉ °OČI",
+				"ActiveSlidewalks2": "AKTIVUJÍ",
+				"ActiveSlidewalks3": "TRAVELÁTORY",
+				"ActiveSlidewalks4": "JEN POKUD MAJÍ V DOHLEDU",
+				"ActiveSlidewalks5": "ČLOVĚKA"
+			},
+			"tut_reminder": {
+				"StayInSight": "ZŮSTAŇTE V DOHLEDU"
+			},
+			"tut_slidewalk": {
+				"SLIDEWALK": "TRAVELÁTOR",
+				"AvoidUsingLegs": "NOVÝ REVOLUČNÍ PROSTŘEDEK, JAK NENAMÁHAT NOHY"
+			},
+			"tut_slow": {
+				"SlowDown": "ZPOMALTE",
+				"ForNarrowPaths": "V ÚZKÝCH PRUZÍCH",
+				"ShiftKey": "KLÁVESOU SHIFT",
+				"OR": "- - - - - - NEBO - - - - - -",
+				"MoveMouseSlowly1": "HÝBEJTE MYŠÍ",
+				"MoveMouseSlowly2": "POMALU"
+			},
+			"tut_walk": {
+				"Walking": "CHŮZE",
+				"ArrowKeys1": "",
+				"ArrowKeys2": "ŠIPKAMI",
+				"OR": "- - - - NEBO - - - - - ",
+				"WalkingMouse1": "PODRŽTE",
+				"WalkingMouse2": "TLAČÍTKO",
+				"WalkingMouse3": "MYŠI",
+				"LowTechTransportation1": "DRUH PRIMITIVNÍHO",
+				"LowTechTransportation2": "TRANSPORTU"
+			},
+			"unsecret_ballot": {
+				"WrongChoice1": "ŠPATNÁ VOLBA",
+				"WrongChoice2": "ŠPATNÁ VOLBA",
+				"GARDNER": "GARDNER",
+				"WrongChoice3": "ŠPATNÁ VOLBA",
+				"WrongChoice4": "ŠPATNÁ VOLBA",
+				"RemberCantHide1": "PAMATUJTE...",
+				"RemberCantHide2": "SVŮJ ODTAJNĚNÝ",
+				"RemberCantHide3": "HLAS NEMŮŽETE SKRÝT. TAKŽE",
+				"RememberVoteWinner1": "NEZAPOMEŇTE...",
+				"RememberVoteWinner2": "HLASOVAT PRO",
+				"RememberVoteWinner3": "VÍTĚZE"
+			}
+		}
+	}
+}

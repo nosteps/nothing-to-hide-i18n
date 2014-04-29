@@ -106,7 +106,7 @@
 	Game.togglePause = function(){
 		
 		Game.PAUSED = !Game.PAUSED;
-		pauseButton.innerHTML = Game.PAUSED ? "PLAY" : "PAUSE";
+		pauseButton.innerHTML = Game.PAUSED ? i18n.t("command.play") : i18n.t("command.pause");
 		pauseMenu.style.display = Game.PAUSED ? "block" : "none";
 
 		if(!Game.PAUSED){

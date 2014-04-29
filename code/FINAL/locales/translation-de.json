@@ -60,6 +60,7 @@
 		"resumegame": "SPIEL FORTSETZEN",
 		"resetlevel": "LEVEL ZURÜCKSETZEN",
 		"pause": "PAUSE",
+		"play": "PLAY",
 		"skiplevel": "ÜBERSPRINGE LEVEL"
 	},
 	"game": {

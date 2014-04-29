@@ -61,6 +61,7 @@
 		"resumegame": "HERVATTEN",
 		"resetlevel": "LEVEL RESETTEN",
 		"pause": "PAUZE",
+		"play": "PLAY",
 		"skiplevel": "LEVEL OVERSLAAN"
 	},
 	"game": {
